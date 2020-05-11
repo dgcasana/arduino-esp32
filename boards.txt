@@ -88,7 +88,7 @@ esp32s2.menu.CPUFreq.10=10MHz
 esp32s2.menu.CPUFreq.10.build.f_cpu=10000000L
 
 esp32s2.menu.FlashMode.qio=QIO
-esp32s2.menu.FlashMode.qio.build.flash_mode=qio
+esp32s2.menu.FlashMode.qio.build.flash_mode=dio
 esp32s2.menu.FlashMode.qio.build.boot=qio
 esp32s2.menu.FlashMode.dio=DIO
 esp32s2.menu.FlashMode.dio.build.flash_mode=dio
